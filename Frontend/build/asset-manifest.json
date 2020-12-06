@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arkopal1101/blog-website.git/static/css/main.3ae52438.chunk.css",
+    "main.js": "/arkopal1101/blog-website.git/static/js/main.3ae18ae7.chunk.js",
+    "main.js.map": "/arkopal1101/blog-website.git/static/js/main.3ae18ae7.chunk.js.map",
+    "runtime-main.js": "/arkopal1101/blog-website.git/static/js/runtime-main.e702a1f4.js",
+    "runtime-main.js.map": "/arkopal1101/blog-website.git/static/js/runtime-main.e702a1f4.js.map",
+    "static/js/2.483eaed4.chunk.js": "/arkopal1101/blog-website.git/static/js/2.483eaed4.chunk.js",
+    "static/js/2.483eaed4.chunk.js.map": "/arkopal1101/blog-website.git/static/js/2.483eaed4.chunk.js.map",
+    "index.html": "/arkopal1101/blog-website.git/index.html",
+    "static/css/main.3ae52438.chunk.css.map": "/arkopal1101/blog-website.git/static/css/main.3ae52438.chunk.css.map",
+    "static/js/2.483eaed4.chunk.js.LICENSE.txt": "/arkopal1101/blog-website.git/static/js/2.483eaed4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e702a1f4.js",
+    "static/js/2.483eaed4.chunk.js",
+    "static/css/main.3ae52438.chunk.css",
+    "static/js/main.3ae18ae7.chunk.js"
+  ]
+}
